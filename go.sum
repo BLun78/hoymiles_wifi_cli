@@ -1,0 +1,6 @@
+github.com/BLun78/hoymiles_wifi v0.0.0-20240915140235-a4b51556fe80 h1:JERXT+qRmGz2OC5MN05R4BtQOUlUPLCrUADdmMJDoFw=
+github.com/BLun78/hoymiles_wifi v0.0.0-20240915140235-a4b51556fe80/go.mod h1:/WSkEPy1bwWUxtBAqzNjqHN0ww5PB6HLvm7/48BQG5c=
+github.com/google/go-cmp v0.6.0 h1:ofyhxvXcZhMsU5ulbFiLKl/XBFqE1GSq7atu8tAmTRI=
+github.com/google/go-cmp v0.6.0/go.mod h1:17dUlkBOakJ0+DkrSSNjCkIjxS6bF9zb3elmeNGIjoY=
+google.golang.org/protobuf v1.34.2 h1:6xV6lTsCfpGD21XK49h7MhtcApnLqkfYgPcdHftf6hg=
+google.golang.org/protobuf v1.34.2/go.mod h1:qYOHts0dSfpeUzUFpOMr/WGzszTmLH+DiWniOlNbLDw=
